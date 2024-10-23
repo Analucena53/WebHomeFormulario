@@ -27,7 +27,7 @@ El proyecto tiene la siguiente estructura de carpetas y archivos:
 
 1. **Clonar el repositorio**: 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/Analucena53/WebHomeFormulario.git
 2. **Abrir el proyecto:
  Navega hasta el archivo index.html y ábrelo en tu navegador para ver el sitio en acción.
 
